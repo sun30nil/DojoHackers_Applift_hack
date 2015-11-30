@@ -1,8 +1,11 @@
 # Predicting Conversion Probability and Bid Value
 
 This is project is aimed at predicting the probability that a customer will either:
+
 1. Just Clicked an ad - 'c'
+
 2. Ad was shown (representing an ad auction win) - 'w'
+
 3. Ad was not shown - '0'
 
 Out of 28 attributes around 18 where found be good to start with Feature Engineering.
