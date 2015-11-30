@@ -16,4 +16,4 @@ Similarly the bid value was also predicted using Gradiest Descent Regressor Mode
 
 Also future values of bid for a customer were forecasted using Exponential Smooting Averages Method.
 
-If you need the dataset just test mail me on sun30nil@gmail.com
+If you need the trained model and  dataset just test mail me on sun30nil@gmail.com
